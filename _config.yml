@@ -1,0 +1,14 @@
+layout_spectrum: 0.06341368751600385
+typography_spectrum: 0.11390571482479572
+color:
+  brandStrength: 0.4830186979379505
+  lightness: 0.8272608185652643
+  saturation: 0.5450279547367245
+  rhythmicContrast: 0.8196904412470758
+  brandColors:
+    - '#004358'
+    - '#1F8A70'
+    - '#BEDB39'
+    - '#FFE11A'
+    - '#FD7400'
+name: Bonneau
